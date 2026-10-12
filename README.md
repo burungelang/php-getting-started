@@ -1,6 +1,6 @@
 # PHP Getting Started
 
-A barebones PHP app that makes use of the [Slim](https://www.slimframework.com/) web framework, which can easily be deployed to Heroku.
+A barebones PHP app that makes use of the [Slim](https://www.slimframework.com/) web framework, which can easily be deployed to Heroku. Plan 28 test.
 
 This application supports the tutorials for both the [Cedar and Fir generations](https://devcenter.heroku.com/articles/generations) of the Heroku platform. You can check them out here:
 
